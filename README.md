@@ -27,7 +27,30 @@ UN Open GIS Initiative DWG7 on Smart Maps: related links
 - [COPC - Cloud Optimized Point Clud](https://copc.io/)
 
 ## Who we are
+- [UN Open GIS Initiative](http://unopengis.org) (as introduced previously.)
+- [Domain Working Group (DWG) 7 on Smart Maps](https://github.com/unopengis/7)
+- [UN Vector Tile Toolkit](https://unvt.github.io/) (as introduced previously.)
+- [DWG7 Project Document](https://github.com/UNopenGIS/7/wiki/Project-Document)
+- [Smart Maps provisional logo](https://github.com/UNopenGIS/7/blob/main/dwg7-provisional-logo.jpg)
+
+### Related software
+- [unvt/charites](https://github.com/unvt/charites)
+- [felt/tippecanoe](https://github.com/felt/tippecanoe)
+- [unvt/equinox](https://github.com/unvt/equinox)
+- [PDAL/PDAL](https://github.com/PDAL/PDAL)
+- [OSGeo/gdal](https://github.com/OSGeo/gdal)
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js)
+- [protomaps/protomaps.js](https://github.com/protomaps/protomaps.js)
+- [minio/minio](https://github.com/minio/minio)
+- [minio/mc](https://github.com/minio/mc)
+- [protomaps/PMTiles](https://github.com/protomaps/PMTiles)
+- [ibesora/vt-optimizer](https://github.com/ibesora/vt-optimizer)
 
 ## UNVT Portable
+- [UNVT Portable photo](https://github.com/un-vector-tile-toolkit/tsukuba/blob/master/tsukuba.jpg)
+- [Raspberry Pi Foundation](https://www.raspberrypi.org/)
+- [MinIO](https://min.io/)
 
 ## How we can combine efforts
+- [Smart Maps Meetup 2022-12-13T12:30/12:55+09:00](https://github.com/UNopenGIS/7/issues/34)
+- [【プロダクトアップデート】国土地理院データを利用して日本のMapbox標高データを刷新｜Mapbox Terrain](https://www.mapbox.jp/blog/product-update-mapbox-terrain)
